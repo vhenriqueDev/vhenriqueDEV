@@ -10,7 +10,6 @@
   <img align="center" alt="vhenrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vhenrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vhenrique-mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="vhenrique-gif" height="140" width="140" src="https://i.picasion.com/pic92/711f265d31d7374ddcf69aaa41c0cb2d.gif">
   </div>
   
   
