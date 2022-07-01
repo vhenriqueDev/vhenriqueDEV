@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/vhenriqueDev">
   <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=vhenriqueDev)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="150em" src="github-readme-stats-git-master-tioghostninjax.vercel.app/api/top-langs/?username=vhenriqueDev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=vhenriqueDev&show_icons=true&theme=radical)"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vhenrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
