@@ -1,7 +1,7 @@
 ## Oiii eu sou o Victor Henrique, Estudante universitário de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/vhenriqueDev">
-  <img height="150em" src="github-readme-stats-git-master-tioghostninjax.vercel.app?username=vhenriqueDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=vhenriqueDev)](https://github.com/anuraghazra/github-readme-stats)"/>
   <img height="150em" src="github-readme-stats-git-master-tioghostninjax.vercel.app/api/top-langs/?username=vhenriqueDev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
